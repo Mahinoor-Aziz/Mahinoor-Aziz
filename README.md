@@ -1,31 +1,47 @@
-# Hi, I'm Mahnoor 👋
+# Hey, I'm Mahnoor! 👋
 
 ### Computer Science Student | Aspiring Full-Stack Developer
 
-I'm interested in how software works, from the interfaces people interact with to the logic and systems behind them.
+I enjoy building things, figuring out how they work, and turning ideas into functional digital experiences.
 
-I enjoy learning by building, experimenting with different technologies, and figuring out how things work.
+I'm particularly interested in the connection between frontend interfaces, backend logic, APIs, and databases — and how all these pieces come together to create useful applications.
 
-### What I'm exploring
+### 🛠️ Technologies & Tools
 
-- Frontend Development — HTML, CSS, JavaScript, React
-- Backend Development — Node.js, Python
-- Databases — SQL / MySQL
-- APIs and Web Technologies
-- Version Control — Git & GitHub
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+- React
 
-### Projects
+**Backend**
+- Node.js
+- Python
 
-I'm currently building my development experience through personal projects, coursework, and practical experiments.
+**Databases & Tools**
+- SQL / MySQL
+- REST APIs
+- Git & GitHub
 
-My goal is to create applications that solve real problems and are useful beyond the code itself.
+### 💻 What I'm Working Towards
 
-### Find me elsewhere
+- Developing practical full-stack applications.
+- Strengthening my frontend and backend development skills.
+- Learning to write maintainable, accessible code.
+- Exploring new technologies through hands-on projects.
 
-- Portfolio: https://mahnoorportfolio-nu.vercel.app/
-- LinkedIn: https://www.linkedin.com/in/mahnoor-tariq-aziz-5349ba3a8/
-- GitHub: https://github.com/Mahinoor-Aziz
+### 🌱 A Little More About Me
+
+- Computer Science student.
+- Interested in software development and problem-solving.
+- Learning by experimenting, building, and improving.
+
+### 🔗 Find Me Around the Web
+
+- [LinkedIn](https://www.linkedin.com/in/mahnoor-tariq-aziz-5349ba3a8/)
+- [Portfolio](https://mahnoorportfolio-nu.vercel.app/)
+- [GitHub](https://github.com/Mahinoor-Aziz)
 
 ---
 
-*Always learning. Always building.*
+*Curious by nature. Building by practice.*
